@@ -1,4 +1,3 @@
-```markdown
 # 🐾 PiCat: Raspberry Pi Robotic Cat
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
